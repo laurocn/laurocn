@@ -1,6 +1,6 @@
 <h2>Hello</h2> 
 <div>
-Just got into this world! Right now, I'm exploring around
+Just got into this world!
 </div><div>
 <h5>NOW</h5>
     <ul>
