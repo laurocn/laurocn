@@ -5,7 +5,7 @@ Just got into this world!
 <h5>NOW</h5>
     <ul>
         <li>:black_nib:	Working with environmental conservation</li>
-        <li>:page_with_curl: Studying html, css, javascript</li>
+        <li>:page_with_curl: Studying python & javascript</li>
     <ul>
         </div><div>
 <h5>BIO</h5>
